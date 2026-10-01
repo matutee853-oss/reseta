@@ -1,1 +1,1 @@
-# reseta
+# receta
